@@ -75,6 +75,18 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CoLDorg"
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "/community/#discord"
+    - label: "Slack"
+      icon: "fab fa-fw fa-slack"
+      url: "/community/#slack"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.fb.com/Cold-Computer-Science-Club-of-SE-JNU 105578764877111"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/company/cold-jnu"
 
 footer:
   links:
@@ -84,6 +96,19 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CoLDorg"
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "/community/#discord"
+    - label: "Slack"
+      icon: "fab fa-fw fa-slack"
+      url: "/community/#slack"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.fb.com/Cold-Computer-Science-Club-of-SE-JNU 105578764877111"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/company/cold-jnu"
+
 
 defaults:
   # _posts
