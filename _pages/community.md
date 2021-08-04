@@ -2,14 +2,12 @@
 permalink: /community/
 title: "Our Community"
 ---
-
-**JOIN THE COLD DEVELOPER COMMUNITY**<br>
 Join our community to meet other members of **Co.L.D.**, get to work on new projects, and talk to our [Core Committee](#). You can also keep up with us on our social media channels.
 
 # Community Channels
 ## Discord
-## ![Slack](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg){:height="36"} Slack
-****Co.L.D.**** has a Slack community with sub-communities for various projects and fields. It is open to the students of School of Engineering, JNU and you can [sign up here](https://coldorg.slack.com/). If you're not familiar with Slack, please read ["Getting Started" on Slack's usage guide](https://get.slack.help/hc/en-us/categories/360000049043). Information on joining a specific channel is on ["Join a channel"](https://get.slack.help/hc/en-us/articles/205239967-Join-a-channel). Once you join, please introduce yourself on `#members` channel.
+## Slack
+**Co.L.D.** has a Slack community with sub-communities for various projects and fields. It is open to the students of School of Engineering, JNU and you can [sign up here](https://coldorg.slack.com/). If you're not familiar with Slack, please read ["Getting Started" on Slack's usage guide](https://get.slack.help/hc/en-us/categories/360000049043). Information on joining a specific channel is on ["Join a channel"](https://get.slack.help/hc/en-us/articles/205239967-Join-a-channel). Once you join, please introduce yourself on `#members` channel.
 ### Some Tips
 - You will automatically join the `#general` and `#announcements` channels when you sign in to the Slack for the first time.
 - `#general` is for general purpose discussions relevant to **Co.L.D.**
