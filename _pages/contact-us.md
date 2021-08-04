@@ -3,7 +3,7 @@ permalink: /contact/
 title: "Contact Us"
 ---
 
-- 📧 **Email**: coldexecs@gmail.com
+- 📧 **Email**: [coldexecs@gmail.com](mailto:coldexecs@gmail.com)
 
 - :round_pushpin: **Address**: School of Engineering, JNU, New Delhi - 110067, India
 
