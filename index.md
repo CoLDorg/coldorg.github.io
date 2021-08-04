@@ -6,7 +6,7 @@ layout: splash
 author_profile: true
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.3"
   overlay_image: /assets/images/hero-image.jpg
   actions:
     - label: "Know More"
@@ -37,7 +37,7 @@ feature_row_center:
     btn_label: "View Team Members"
     btn_class: "btn--primary"
 ---
-<!-- 
+<!--
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="feature_row_center" type="center" %} -->
