@@ -7,53 +7,34 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /assets/images/hero-image.jpg
   actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+    - label: "Know More"
+      url: "/about/"
+excerpt: "Co.L.D. is the Computer Science Club of School of Engineering, JNU. We help the students of SE to come together and become a part of the institute's coding community. "
 intro:
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: With a diverse Core Committee running the club, we combine individual expertise and insight to help our members grow their professional skills while also serving as a link to the professional industry by making available to our members a plethora of oppurtunites.'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "Events"
+    title: "Events"
+    excerpt: "Brief event description line here."
+    url: "/events/"
+    btn_label: "See Latest Events"
+    btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
+    alt: "Our Community"
+    title: "Our Community"
+    excerpt: "Join our community to 🤝 meet other members of Co.L.D., get to work on new 🔧🚧 projects, and 🎤 talk to our Core Committee. "
+    url: "/community/"
+    btn_label: "Know More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
+    alt: "Our Team"
+    title: "Our Team"
+    excerpt: "Brief team description line here."
+    url: "/about/#team"
+    btn_label: "View Team Members"
     btn_class: "btn--primary"
 ---
 
