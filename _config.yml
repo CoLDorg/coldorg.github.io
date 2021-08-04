@@ -17,10 +17,8 @@ title: Co.L.D.
 masthead_title: Co.L.D. - The Computer Science Club of JNUSE
 
 email: coldexecs@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >-
+  Co.L.D. is the Computer Science Club of School of Engineering, JNU. We help the students of our college to come together and become a part of the institute's coding community. With a diverse Core Committee running the club, we combine individual expertise and insight to help our members grow their professional skills. We also serve as a link to the real industry by making available to our members a plethora of oppurtunites.
 github_username: CoLDorg
 minimal_mistakes_skin: contrast
 search: true
