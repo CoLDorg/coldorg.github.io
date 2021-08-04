@@ -37,7 +37,7 @@ feature_row_center:
     btn_label: "View Team Members"
     btn_class: "btn--primary"
 ---
-
+<!-- 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row_center" type="center" %}
+{% include feature_row id="feature_row_center" type="center" %} -->
