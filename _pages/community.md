@@ -1,7 +1,6 @@
 ---
 permalink: /community/
 title: "Our Community"
-classes: wide
 toc: true
 toc_label: "Our Community"
 toc_sticky: true

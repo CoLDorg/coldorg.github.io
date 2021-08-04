@@ -13,8 +13,8 @@ header:
       url: "/about/"
 excerpt: "Co.L.D. is the Computer Science Club of School of Engineering, JNU. We help the students of SE to come together and become a part of the institute's coding community. "
 intro:
-  - excerpt: With a diverse Core Committee running the club, we combine individual expertise and insight to help our members grow their professional skills while also serving as a link to the professional industry by making available to our members a plethora of oppurtunites.'
-feature_row:
+  - excerpt: With a diverse Core Committee running the club, we combine individual expertise and insight to help our members grow their professional skills while also serving as a link to the professional industry by making available to our members a plethora of oppurtunites.
+feature_row_center:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "Events"
     title: "Events"
@@ -40,10 +40,4 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
-
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row_center" type="center" %}
