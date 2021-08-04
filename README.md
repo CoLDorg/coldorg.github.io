@@ -1,5 +1,7 @@
 # CoLD - The Computer Science Club of JNUSE
 
+![Co.L.D.](/assets/images/full_logo.png)
+
 The website will work as a tracker of the club's activities and will constantly keep a tab on the works/projects that are presently being undertaken within the club while also serving as a display board for the club. The following will be the main areas that the website will cover:
 
 - To give an overview of the club.
