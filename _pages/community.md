@@ -1,6 +1,9 @@
 ---
 permalink: /community/
 title: "Our Community"
+toc: true
+toc_label: "Our Community"
+toc_sticky: true
 ---
 Join our community to meet other members of **Co.L.D.**, get to work on new projects, and talk to our [Core Committee](#). You can also keep up with us on our social media channels.
 
