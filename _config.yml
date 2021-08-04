@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Co.L.D.
 masthead_title: Co.L.D. - The Computer Science Club of JNUSE
-logo: "/assets/images/bio-photo.png"
+logo: "/assets/images/bio-photo.jpg"
 
 email: coldexecs@gmail.com
 description: >-
