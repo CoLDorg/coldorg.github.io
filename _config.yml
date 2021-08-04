@@ -84,9 +84,6 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.fb.com/Cold-Computer-Science-Club-of-SE-JNU 105578764877111"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/company/cold-jnu"
 
 footer:
   links:
@@ -105,10 +102,6 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.fb.com/Cold-Computer-Science-Club-of-SE-JNU 105578764877111"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/company/cold-jnu"
-
 
 defaults:
   # _posts
