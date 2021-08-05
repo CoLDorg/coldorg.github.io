@@ -89,6 +89,9 @@ author:
 
 footer:
   links:
+    - label: "Constitution"
+      icon: "fas fa-fw fa-book"
+      url: "/constitution/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:coldexecs@gmail.com"
