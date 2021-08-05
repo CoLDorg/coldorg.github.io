@@ -10,6 +10,13 @@ toc_label: "About Us"
 **Co.L.D.** is the Computer Science Club of [School of Engineering](https://jnu.ac.in/se), [JNU](https://jnu.ac.in). We help the students of SE to come together and become a part of the institute's coding community. With a diverse Core Committee running the club, we combine individual expertise and insight to help our members grow their professional skills while also serving as a link to the professional industry by making available to our members a plethora of oppurtunites.
 
 # What we do.
+Co.L.D. is a platform which provides a common ground for like-minded students, where they interact and become a part of various activities which help them to hone and test their skills, giving them a
+competitive edge with regards to the relevant industry.
+
+For efficient functioning of the club, the club has laid out some of its aims from the outset.
+
+The club also takes up various activities to fund its treasury or sometimes, to contribute to the greater good.
+
 ## Aims and Objectives
 The club aims to:
 - Mentor and train students in various IT related fields/skills/technologies. This is done by:
