@@ -41,7 +41,7 @@ feature_row_left2:
 ---
 <!--
 {% include feature_row id="intro" type="center" %} -->
-<!-- 
+<!--
 {% include feature_row id="feature_row_left1" type="left" %}
 {% include feature_row id="feature_row_right" type="right" %}
 {% include feature_row id="feature_row_left2" type="left" %} -->
