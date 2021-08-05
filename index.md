@@ -14,7 +14,7 @@ header:
 excerpt: "Co.L.D. is the Computer Science Club of School of Engineering, JNU. We help the students of SE to come together and become a part of the institute's coding community. "
 intro:
   - excerpt: With a diverse Core Committee running the club, we combine individual expertise and insight to help our members grow their professional skills while also serving as a link to the professional industry by making available to our members a plethora of oppurtunites.
-feature_row_left1:
+feature_row_left:
   - image_path: assets/images/events_fallback.jpg
     alt: "Events"
     title: "Events"
@@ -23,14 +23,6 @@ feature_row_left1:
     btn_label: "See Events"
     btn_class: "btn--primary"
 feature_row_right:
-  - image_path: /assets/images/community_fallback.jpg
-    alt: "Our Community"
-    title: "Our Community"
-    excerpt: "Join our community to 🤝 meet other members of Co.L.D., get to work on new 🔧🚧 projects, and 🎤 talk to our Core Committee. "
-    url: "/community/"
-    btn_label: "Community Overview"
-    btn_class: "btn--primary"
-feature_row_left2:
   - image_path: /assets/images/team_fallback.jpg
     alt: "Our Team"
     title: "Our Team"
@@ -41,13 +33,9 @@ feature_row_left2:
 ---
 <!--
 {% include feature_row id="intro" type="center" %} -->
-<!--
-{% include feature_row id="feature_row_left1" type="left" %}
-{% include feature_row id="feature_row_right" type="right" %}
-{% include feature_row id="feature_row_left2" type="left" %} -->
 
-## Latest
-<iframe src="https://discord.com/widget?id=759842417209376849&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+{% include feature_row id="feature_row_left" type="left" %}
+{% include feature_row id="feature_row_right" type="right" %}
 
 ## Interested?
 Great! Fill the form below and wait for (no more than 2 days) an email from our side.
