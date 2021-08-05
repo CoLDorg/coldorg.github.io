@@ -47,14 +47,18 @@ The club aims to:
 - Provide help related to college academics to students by providing learning resources and guidance.
 
 ## Services we offer
-The club offers various services. This helps our members to get professional experience while also helping us to generate funds used for the activities of the club.
+The club offers various services. This helps our members to get professional experience while also helping us to generate funds which are used for the activities of the club.
 
 This does not mean that we do not work for free. If the work is rewarding enough - experience wise or contributing to some great social cause, we offer our services for free also.
-### Software Solutions
+
+Services offered include:
+### 1. Software Solutions
 We build specialised software/applications for small to medium sized businesses/startups to help them make the transition to modern day technology or to build a specialised tech suite for them.
-### Website Development
+
+### 2. Website Development
 Many members of the Core Committee as well as our member community are fine web developers. Leveraging this expertise of theirs, we offer web development solutions as part of our services.
-### Academic/Research Projects
+
+### 3. Academic/Research Projects
 
 # Club Structure
 ## Core Committee
