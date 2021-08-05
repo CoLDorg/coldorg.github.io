@@ -82,7 +82,7 @@ author:
       url: "/community/#slack"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
-      url: "https://www.fb.com/Cold-Computer-Science-Club-of-SE-JNU 105578764877111"
+      url: "https://www.fb.com/cold.jnuse"
 
 footer:
   links:
@@ -100,7 +100,7 @@ footer:
       url: "/community/#slack"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
-      url: "https://www.fb.com/Cold-Computer-Science-Club-of-SE-JNU 105578764877111"
+      url: "https://www.fb.com/cold.jnuse"
 
 defaults:
   # _posts
