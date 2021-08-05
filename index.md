@@ -45,6 +45,10 @@ feature_row_left2:
 {% include feature_row id="feature_row_left1" type="left" %}
 {% include feature_row id="feature_row_right" type="right" %}
 {% include feature_row id="feature_row_left2" type="left" %} -->
+
+## Latest
+<iframe src="https://discord.com/widget?id=759842417209376849&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 ## Interested?
 Great! Fill the form below and wait for (no more than 2 days) an email from our side.
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe763-pHHXFPQyo7MzlrN63zf0p2M--lsMmLNmnki4GdsHZew/viewform?embedded=true" width="100%" height="200px" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
