@@ -69,6 +69,7 @@ Many members of the Core Committee as well as our member community are fine web 
 The college has appointed overall Student Activity Mentors to supervise the functioning and coordination of all clubs in the college. Student Activity Mentors are designated professors of the college.
 
 Current Student Activity Mentors (overall):
+
 | S. No. | Mentor Name           | Email ID                 |
 | ------ | --------------------- | ------------------------ |
 | 1.     | Dr. Prerana Mukherjee | prerana@jnu.ac.in        |
@@ -78,6 +79,7 @@ Current Student Activity Mentors (overall):
 Faculty mentors are appointed from the college faculty to supervise the activities of the club.
 
 Current Faculty Mentors of **Co.L.D.**:
+
 | S. No. | Mentor Name           | Email ID                      |
 | ------ | --------------------- | ----------------------------- |
 | 1.     | Dr. Krishnan Rajkumar | krishnan.rjkmr@gmail.com      |
@@ -87,6 +89,7 @@ Current Faculty Mentors of **Co.L.D.**:
 Each student club of the college is required to appoint Coordinators who act as representatives of the club to the college. Coordinators are required to hold an executive position within the club. For **Co.L.D.** this corresponds to being a part of the Core Committee of the club.
 
 Current Coordinators of **Co.L.D.**:
+
 | S. No. | Mentor Name    | Email ID                      |
 | ------ | -------------- | ----------------------------- |
 | 1.     | Amanullah Asad | amanullah1707@gmail.com       |
