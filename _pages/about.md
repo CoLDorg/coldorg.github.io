@@ -69,6 +69,7 @@ Services offered include:
    Content here
 
 # Club Structure
+The club is managed and run by Core Committee, which is the main executive body of the club. Faculty Mentors have been appointed by the college to supervise the club. Any student enrolled in School of Engineering, JNU can become a member of the club.
 
 ## Core Committee
 
