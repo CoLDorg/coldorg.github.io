@@ -64,11 +64,36 @@ Many members of the Core Committee as well as our member community are fine web 
 
 # Club Structure
 ## Core Committee
-## Overall Mentors
-## Faculty Mentors
-## Coordinators
+## Student Activity (overall) Mentors
+The college has appointed overall Student Activity Mentors to supervise the functioning and coordination of all clubs in the college. Student Activity Mentors are designated professors of the college.
 
-# How to Join?
+Current Student Activity Mentors (overall):
+| S. No. | Mentor Name           | Email ID                 |
+| ------ | --------------------- | ------------------------ |
+| 1.     | Dr. Prerana Mukherjee | prerana@jnu.ac.in        |
+| 2.     | Dr. Ayushi Barthwal   | ayushibarthwal@jnu.ac.in |
+
+## Faculty Mentors
+Faculty mentors are appointed from the college faculty to supervise the activities of the club.
+
+Current Faculty Mentors of **Co.L.D.**:
+| S. No. | Mentor Name           | Email ID                 |
+| ------ | --------------------- | ------------------------ |
+| 1.     | Dr. Prerana Mukherjee | prerana@jnu.ac.in        |
+| 2.     | Dr. Ayushi Barthwal   | ayushibarthwal@jnu.ac.in |
+
+## Coordinators
+Each student club of the college is required to appoint Coordinators who act as representatives of the club to the college. Coordinators are required to hold an executive position within the club. For **Co.L.D.** this corresponds to being a part of the Core Committee of the club.
+
+Current Coordinators of **Co.L.D.**:
+| S. No. | Mentor Name    | Email ID                      |
+| ------ | -------------- | ----------------------------- |
+| 1.     | Amanullah Asad | amanullah1707@gmail.com       |
+| 2.     | Shubham SIngh  | shubham.25powertech@gmail.com |
+
+
+# Join the Club
+If you are interested in becoming a member of **Co.L.D.**, go through the membership procedure as outlined below.
 
 ## When to Join?
 The club launches a 3 week long membership drive within the fisrt two weeks of the Monsoon Semester for the running academic year. Usually this is the 1st or 2nd week of August.

@@ -38,5 +38,5 @@ feature_row_right:
 {% include feature_row id="feature_row_right" type="right" %}
 
 # Interested?
-Great! Fill the form below and wait for (no more than 2 days) an email from our side. For more details see [Instructions to Join](/about/#how-to-join).
+Great! Fill the form below and wait for (no more than 2 days) an email from our side. For more details see [Instructions to Join](/about/#join-the-club).
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe763-pHHXFPQyo7MzlrN63zf0p2M--lsMmLNmnki4GdsHZew/viewform?embedded=true" width="100%" height="200px" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
