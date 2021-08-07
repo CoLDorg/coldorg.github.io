@@ -45,6 +45,8 @@ The club aims to:
 - Support students who have ideas for STEM based startups with human resources.
 
 - Provide help related to college academics to students by providing learning resources and guidance.
+## Role of Club in the College
+Apart from being a student club, **Co.L.D.** has been given the responsibility of handling all the technical work related to events organized by the college as a whole. As such, **Co.L.D.** collaborates with other technical (especially LooP – The Development Club of the college) and cultural clubs in School of Engineering to organize inter-college or intra-college events.
 
 ## Services we offer
 The club offers various services. This helps our members to get professional experience while also helping us to generate funds which are used for the activities of the club.
@@ -65,3 +67,19 @@ Many members of the Core Committee as well as our member community are fine web 
 ## Overall Mentors
 ## Faculty Mentors
 ## Coordinators
+
+# How to Join?
+
+## When to Join?
+The club launches a 3 week long membership drive within the fisrt two weeks of the Monsoon Semester for the running academic year. Usually this is the 1st or 2nd week of August.
+
+Announcements and notices regarding the start and end dates of the membership drives are published on different platforms.
+
+## Steps to Join.
+1. During the period when the membership drive is ongoing, visit our website and fill [this](/#interested) registration form. If you are having trouble filling the form integrated on our website, click the link below fill it separately.<br>**📝[Form Link](https://docs.google.com/forms/d/1jxcpLRpxirj82okpsix02BPlgm_hbh5okhKFWlWW0ek/)**
+
+2. Once you submit the form, we'll verify your details and send a comfirmation Email accordingly within 2 days from the date of submission (excluding holidays).
+3. Once your membership has been confirmed, we'll add you to all our community channels and social media groups (for an overview of these, visit the [community](/community/) page).
+
+## Missed the joining date? No problem!
+If you were unable to join the club during the membership drive then don't worry, you can still join the club. Simply write an 📧 email to any member of the Core Committee. Or maybe for the next membership drive.
