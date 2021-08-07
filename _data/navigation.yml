@@ -4,12 +4,12 @@ main:
     children:
       - title: "What we do."
         url: /about/#what-we-do
-      - title: "Constitution"
-        url: /constitution/
       - title: "Club Structure"
         url: /about/#club-structure
       - title: "Join the Club"
         url: /about/#join-the-club
+  - title: "Constitution"
+    url: /constitution/
   - title: "Events"
     url: /events/
   - title: "Our Community"
