@@ -60,22 +60,19 @@ This does not mean that we do not work for free. If the work is rewarding enough
 
 Services offered include:
 
-### 1. Software Solutions
+   1. **Software Solutions**:
+   We build specialised software/applications for small to medium sized businesses/startups to help them make the transition to modern day technology or to build a specialised tech suite for them.
 
-We build specialised software/applications for small to medium sized businesses/startups to help them make the transition to modern day technology or to build a specialised tech suite for them.
+   2. **Website Development**: Many members of the Core Committee as well as our member community are fine web developers. Leveraging this expertise of theirs, we offer web development solutions as part of our services.
 
-### 2. Website Development
-
-Many members of the Core Committee as well as our member community are fine web developers. Leveraging this expertise of theirs, we offer web development solutions as part of our services.
-
-### 3. Academic/Research Projects
-Content here
+   3. **Academic/Research Projects**:
+   Content here
 
 # Club Structure
 
 ## Core Committee
 
-The Core Committee is the executive body of **Co.L.D.**. Go throught the club [constitution](/constitution/) for a detailed overview of the functions and responsibilities of the Core, 
+The Core Committee is the executive body of **Co.L.D.**. Go throught the club [constitution](/constitution/) for a detailed overview of the functions and responsibilities of the Core,
 
 ### Overall Structure:
 
