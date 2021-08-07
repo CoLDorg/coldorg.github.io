@@ -95,13 +95,6 @@ Current Coordinators of **Co.L.D.**:
 | 1.     | Amanullah Asad | amanullah1707@gmail.com       |
 | 2.     | Shubham Singh  | shubham.25powertech@gmail.com |
 
-| Employee         | Salary |                                                              |
-| ---------------- | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | $1     | Because that's all Steve Jobs needed for a salary.           |
-| [Jane Doe](#)    | $100K  | For all the blogging she does.                               |
-| [Fred Bloggs](#) | $100M  | Pictures are worth a thousand words, right? So Jane × 1,000. |
-| [Jane Bloggs](#) | $100B  | With hair like that?! Enough said.                           |
-
 # Join the Club
 If you are interested in becoming a member of **Co.L.D.**, go through the membership procedure as outlined below.
 
