@@ -45,6 +45,7 @@ The club aims to:
 - Support students who have ideas for STEM based startups with human resources.
 
 - Provide help related to college academics to students by providing learning resources and guidance.
+
 ## Role of Club in the College
 Apart from being a student club, **Co.L.D.** has been given the responsibility of handling all the technical work related to events organized by the college as a whole. As such, **Co.L.D.** collaborates with other technical (especially LooP – The Development Club of the college) and cultural clubs in School of Engineering to organize inter-college or intra-college events.
 
