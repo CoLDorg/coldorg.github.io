@@ -66,7 +66,7 @@ Services offered include:
    2. **Website Development**: Many members of the Core Committee as well as our member community are fine web developers. Leveraging this expertise of theirs, we offer web development solutions as part of our services.
 
    3. **Academic/Research Projects**:
-   Content here
+   <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT9XaLsK0uki0xKIHK9QY6CJElTbyyxcd3jLA6lksO_eUwZWaic37M_PwteCGEnfw/pubhtml?widget=true&amp;headers=false" width="100%" height="500px"></iframe>
 
 # Club Structure
 The club is managed and run by Core Committee, which is the main executive body of the club. Faculty Mentors have been appointed by the college to supervise the club. Any student enrolled in School of Engineering, JNU can become a member of the club.
