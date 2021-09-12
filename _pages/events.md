@@ -5,7 +5,7 @@ title: "Events"
 
 **Data Science Workshop**
 
-![Data Science](assets/images/datascience.jpg)
+![Data Science](/assets/images/datascience.jpg)
 
 Key Points that are going to be covered:
  - What is Data Science? Why is it relevant today?
