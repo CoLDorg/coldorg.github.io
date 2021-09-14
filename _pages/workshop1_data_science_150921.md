@@ -1,11 +1,19 @@
 ---
 permalink: /workshop1_data_science_150921/
 title: "Data Science and Statistics Workshop"
+toc: true
+toc_sticky: true
+toc_label: "Data Science and Statistics Workshop"
 ---
 
-![Data Science](/assets/images/datascience.jpg)
+![Data Science](/assets/images/w1/d1_poster.jpg)
 
-Key Points that are going to be covered:
+## Date and Venue
+Date: 15 September 2021 (Wednesday)
+Time: 11:00 AM onwards
+Mode: Online
+
+## Key Points that are going to be covered
  - What is Data Science? Why is it relevant today?
  - Basics of Python (Zen of Python, Modules, Arithmetic, Functions, Strings, Lists, Tuples, Dictionaries, Control Flow)
  - Linear Algebra - Vectors and Matrices
@@ -17,9 +25,13 @@ Key Points that are going to be covered:
  - Real world Data Science applications
  - What to learn next - Numpy, Pandas, scikit-learn, seaborn, R
 
-Workshop Hosts:
- - Amanullah Asad (Co-President - Co.L.D.)
- - Shubham Singh (Co-President - Co.L.D.)
+## Workshop Hosts
 
-Date: 15 September 2021 (Wednesday)
-Time: 11:00 AM onwards
+| S. No. | Mentor Name    | Email ID                |
+| ------ | -------------- | ----------------------- |
+| 1.     | Amanullah Asad | amanullah1707@gmail.com |
+| 2.     | Shubham Singh  | shubha65_soe@jnu.ac.in  |
+
+
+## Workshop resources
+ - [Cheat sheet](/assets/docs/w1/cheatsheet.pdf)
