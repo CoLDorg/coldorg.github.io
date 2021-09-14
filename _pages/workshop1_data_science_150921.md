@@ -6,7 +6,7 @@ toc_sticky: true
 toc_label: "Data Science and Statistics Workshop"
 ---
 
-![Data Science](/assets/images/w1/d1_poster.jpg)
+![Data Science](/assets/images/w1/w1_poster.jpg)
 
 ## Date and Venue
 Date: 15 September 2021 (Wednesday)
