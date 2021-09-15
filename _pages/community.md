@@ -13,7 +13,9 @@ Join our community to 🤝 meet other members of **Co.L.D.**, get to work on new
 **Co.L.D.** uses Discord as its primary community workspace.
 In fact, Discord is used for the regular discussions related to 🐱‍💻 competitve coding contests. So there might be some ⚖️ rules below specific to that context only 🤷‍.
 
-The invite link to join the Discord server are made live during the membership drive (they happen in August) of the club. If you were unable to join during that time, write a mail to us (with enough details so that we can ascertain that you are a JNUSE student) and we'll send you the invite.
+[Discord Server Invite](https://discord.gg/aKBgyxf){: .btn .btn--info}
+
+<!-- The invite link to join the Discord server is made live during the membership drive (they happen in August) of the club. If you were unable to join during that time, write a mail to us (with enough details so that we can ascertain that you are a JNUSE student) and we'll send you the invite. -->
 
 By joining our Discord community you must agree to follow a few simple rules.
 
