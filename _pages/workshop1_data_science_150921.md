@@ -6,7 +6,7 @@ toc_sticky: true
 toc_label: "Data Science and Statistics Workshop"
 ---
 
-![Data Science](/assets/images/w1/w1_poster.jpg)
+![Data Science](/assets/w1/w1_poster.jpg)
 
 ## Date and Venue
 Date: 15 September 2021 (Wednesday)
@@ -34,4 +34,7 @@ Mode: Online
 
 
 ## Workshop resources
- - [Cheat sheet](/assets/docs/w1/cheatsheet.pdf)
+ - [Cheat sheet](/assets/w1/cheatsheet.pdf)
+ - [Notebook 1](/assets/w1/Data_Science_and_Statistics_Workshop_[15.09.2021]_[CoLD]_Notebook_1.ipynb)
+ - [Notebook 2](/assets/w1/Data_Science_and_Statistics_Workshop_[15.09.2021]_[CoLD]_Notebook_2.ipynb)
+ - [Presentation](/assets/w1/presentation.pdf)
