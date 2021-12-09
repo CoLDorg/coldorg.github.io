@@ -21,12 +21,9 @@ Co.L.D. in association with U-Net Solutions presents a workshop on **"Open Sourc
 - Introduction to Iptables Firewall
 
 ## Speaker
-![Mr. Vipin Gupta](/assets/w2/w2_speaker_picture.jpeg)
-
-**Mr. Vipin Gupta**
-
-RHCSS, CEH, CCNA, MCSE, MCSA
-
+![Mr. Vipin Gupta](/assets/w2/w2_speaker_picture.jpeg)<br>
+**Mr. Vipin Gupta**<br>
+RHCSS, CEH, CCNA, MCSE, MCSA<br>
 *U-Net Solutions*
 
 ## Workshop Moderators

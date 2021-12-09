@@ -9,8 +9,8 @@ toc_label: "Data Science and Statistics Workshop"
 ![Data Science](/assets/w1/w1_poster.jpg)
 
 ## Date and Venue
-Date: 15 September 2021 (Wednesday)
-Time: 11:00 AM onwards
+Date: 15 September 2021 (Wednesday)<br>
+Time: 11:00 AM onwards<br>
 Mode: Online
 
 ## Key Points that are going to be covered
