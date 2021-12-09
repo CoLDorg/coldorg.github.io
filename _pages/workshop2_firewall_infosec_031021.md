@@ -9,8 +9,8 @@ toc_label: "Firewall Implementation - InfoSec Workshop"
 ![Data Science](/assets/w2/w2_poster.jpeg)
 
 ## Date and Venue
-Date: 3 October 2021 (Sunday)
-Time: 11:00 AM onwards
+Date: 3 October 2021 (Sunday)<br>
+Time: 11:00 AM onwards<br>
 Mode: Online
 
 ## Key Points that are going to be covered
