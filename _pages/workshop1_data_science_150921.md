@@ -37,4 +37,4 @@ Mode: Online
  - [Cheat sheet](/assets/w1/cheatsheet.pdf)
  - [Notebook 1](/assets/w1/Data_Science_and_Statistics_Workshop_[15.09.2021]_[CoLD]_Notebook_1.ipynb)
  - [Notebook 2](/assets/w1/Data_Science_and_Statistics_Workshop_[15.09.2021]_[CoLD]_Notebook_2.ipynb)
- - [Presentation](/assets/w1/presentation.pdf)
+ - [Presentation](/assets/w1/w1_presentation.pdf)
