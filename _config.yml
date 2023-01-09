@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Co.L.D."
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Code. Learn. Develop."
+  bio    : "Code. Learn. Discuss."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
